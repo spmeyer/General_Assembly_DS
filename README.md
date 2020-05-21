@@ -1,3 +1,3 @@
-# ga_hw
+# General Assembly work
 
 General Assembly homework
